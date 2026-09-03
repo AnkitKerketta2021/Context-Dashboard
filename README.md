@@ -28,4 +28,4 @@ node server.js
 - avoiding prop drilling
 - derived state
 
-![alt text](page-1.png)
+<img src="page.png" alt="Alt text" width="500">
