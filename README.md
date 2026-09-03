@@ -27,3 +27,5 @@ node server.js
 - shared global state
 - avoiding prop drilling
 - derived state
+
+![alt text](page-1.png)
